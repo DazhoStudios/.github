@@ -1,5 +1,8 @@
 # Dazho Studios - Digital Marketing, Tech Solutions & Innovation 🚀
 
+##### [نسخه فارسی 🇮🇷](https://github.com/DazhoStudios/.github/blob/main/profile/README_FA.md)
+---
+
 **Founded Year:** 2024  
 **Official Operation Year:** 2025  
 **Headquarters Location:** Dubai, United Arab Emirates 🇦🇪  
