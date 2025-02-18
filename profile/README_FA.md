@@ -2,6 +2,9 @@
 
 
 ##### [English Version 🇺🇸](https://github.com/DazhoStudios/.github/blob/main/profile/README.md)
+
+<a href="https://daramet.com/wersy" target="_blank"><img src="https://panel.daramet.com/static/media/daramet-coffee-donate.91915073278a21c30769.png"></a>
+
 ---
 
 
